@@ -1,0 +1,5 @@
+What is the purpose of a "for" loop in coding?;To declare variables;To define functions;To repeat a block of code a specific number of times;To print output to the console;To repeat a block of code a specific number of times
+Which data type is used to store whole numbers in Python?;String;Integer;Boolean;Float;Integer
+What is the syntax for defining a function in JavaScript?;function = myFunction();def myFunction();function myFunction();function myFunction {};function myFunction()
+What does CSS stand for in web development?;Computer Style Sheets;Creative Style Sheets;Colorful Style Sheets;Cascading Style Sheets;Cascading Style Sheets
+How do you add singleline comments in C++?;// This is a comment;<!-- This is a comment -->;/* This is a comment */;'This is a comment;// This is a comment
